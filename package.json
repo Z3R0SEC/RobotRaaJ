@@ -1,20 +1,20 @@
 {
-  "name": "botpack",
+  "name": "Z3R0SEC",
   "version": "1.5.1",
-  "description": "A Simple BotPack for starting a Messenger chatbot.",
+  "description": "RaaJ Robotic Prod Is an Artificial Intelligence Program Sets to Automate Facebook Account. By Auto Responding to messages Providing advanced Expirience to users!",
   "main": "index.js",
   "keywords": [
-    "Facebook",
-    "Messenger",
-    "SpermLord",
+    "Mirai",
+    "RaaJ Bot",
+    "Raaj Kumar",
     "CatalizCS",
-    "Disme-Bot",
-    "usePrefix",
-    "D-Jukie",
-    "Yan Maglinte"
+    "Facebook Bot",
+    "FB messenger Bot",
+    "Z3R0SEC",
+    "Facebook Messenger Chatbot Fbchat"
   ],
   "license": "GPL-3.0",
-  "author": "Yan Maglinte",
+  "author": "Z3R0SEC",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "aes-js": "^3.1.2",
@@ -53,10 +53,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YANDEVA/BotPack.git"
+    "url": "git+https://github.com/Z3R0SEC/RobotRaaJ.git"
   },
   "bugs": {
-    "url": "https://github.com/YANDEVA/BotPack/issues"
+    "url": "https://github.com/Z3R0SEC/RobotRaaJ/issues"
   },
-  "homepage": "https://github.com/YANDEVA/BotPack#readme"
+  "homepage": "https://github.com/Z3R0SEC/RobotRaaJ#readme"
 }
